@@ -1,0 +1,30 @@
+{
+  "name": "react-leaderboard-app",
+  "version": "1.0.0",
+  "author": "Zachary Milonas <a@a> (https://zachary.milonas.pl/)",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "date-input-polyfill": "^2.14.0",
+    "history": "^4.7.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-fontawesome": "^1.6.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^1.1.0",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "^4.8.0",
+    "redux": "^3.7.2",
+    "redux-reset": "^0.3.0",
+    "uuid-random": "^1.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
