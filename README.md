@@ -7,6 +7,7 @@ A simple leaderboard React App mockup
 
 ```bash session
 $ git clone https://github.com/zmilonas/react-leaderboard-app
+$ cd react-leaderboard-app
 $ npm install
 $ npm run start
 ```
